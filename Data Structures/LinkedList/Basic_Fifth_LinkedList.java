@@ -8,6 +8,8 @@ class Node {
 }
 
 public class Basic_Fifth_LinkedList {
+
+    
     // Method to display elements of a linked list
     public static void Dispaly_LinkedList(Node head) {
         Node temp = head;
